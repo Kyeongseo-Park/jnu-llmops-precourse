@@ -1,5 +1,5 @@
 """Virtual Lab Records — 장비 점검 기록을 검색해서 출력하는 작은 CLI Program.
-dfskd
+
 Day 1: 출력 Formatting 을 바꾸고 첫 Commit 을 남긴다 (D1-FMT).
 Day 2: 검색할 장비를 바꿔 결과가 달라지는 것을 확인한다 (D2-TARGET).
 Day 3: 조건을 좁히고 (D3-FILTER), 검색을 records.py 로 옮기고 (D3-EXTRACT),
